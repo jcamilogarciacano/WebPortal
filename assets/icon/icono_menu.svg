@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="20" viewBox="0 0 24 20">
+  <g id="ic_menu_white" transform="translate(0.412 0.356)">
+    <rect id="rectangle" width="24" height="20" transform="translate(-0.412 -0.356)" fill="none"/>
+    <path id="navbar_mobile" d="M3,19.92h8.048V17.6H3v2.32Zm0-5.8H14.093V11.8H3v2.32ZM3,6V8.32H20.013V6Z" transform="translate(0.628 -3.297)" fill="#784eeb" fill-rule="evenodd"/>
+  </g>
+</svg>
